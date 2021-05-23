@@ -7,12 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class SideComponent implements OnInit {
 
-  toggleMenu($event: MouseEvent) {
-    // var dd = $event.composedPath();
-    // dd[4];
-    var dd = document.getElementsByClassName("sidenav-menu");
-    dd[0].classList.toggle("hide");
-  }
+  
 
 
   constructor() { }
