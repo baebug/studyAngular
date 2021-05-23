@@ -1,0 +1,16 @@
+.title {
+  display: table;
+  background-color: rgb(231, 231, 231);
+  width: 100%;
+  height: 10vh;
+}
+.footer {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 12px;
+}
+
+p {
+  margin: 0;
+}

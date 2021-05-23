@@ -1,0 +1,14 @@
+.hide {
+  display: none;
+}
+
+.sidenav-menu {
+  width: 200px;
+  /* height: 100%; */
+}
+.menu-toggle {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+}
+
